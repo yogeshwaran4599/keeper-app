@@ -1,3 +1,5 @@
+In this keeper app I have used react hooks such as usestate and useeffect to store datas.we can add notes by using this app and delete accordingly.And also I used material iocn to style the app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
